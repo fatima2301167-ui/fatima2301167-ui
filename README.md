@@ -13,10 +13,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fatima2301167-ui&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/Alexandria-Egypt-grey?style=flat&logo=googlemaps&logoColor=white)
-![University](https://img.shields.io/badge/Alryada_University-GPA_3.54-orange?style=flat&logo=academia&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat&logo=ieee&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/Fatma_Mahmoud-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatma-morsi-9257a7362)
-[![Gmail](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:fatima2301167@gmail.com) <br>
+![University](https://img.shields.io/badge/Alryada_University-orange?style=flat&logo=academia&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat&logo=ieee&logoColor=white) <br>
 
 </div>
 
@@ -56,4 +54,61 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **.NET Backend** & **Machine Learning** (DEPI - Rowad Misr).
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **.NET Backend** & **Machine Learning** (DEPI - Rowad Misr). <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI + Cybersecurity** together. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Flutter, Networking, Arduino & Raspberry Pi projects**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[Fatma Morsi](https://www.linkedin.com/in/fatma-morsi-9257a7362)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Currently: 4th-year student, graduating **2027**, and looking for an **internship** opportunity.<br>
+
+<hr></hr>
+
+### 🚀 Academic Projects
+
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🅿️ **Parking Management System** | Software/hardware integration for parking management | `Flutter` `Raspberry Pi` `Arduino` |
+| 📱 **Mobile Installment Management System** | Manages mobile-phone installment payments, with an Arabic interface | `Database` `System Design` |
+| 🎓 **Student Management System** | Academic project for managing student data | `OOP` |
+| 🗂 **Student Activity Repository** | Academic project for organizing student activities | `Programming` |
+| 🧪 **Raknology** | Academic project | `Programming` |
+
+<details>
+  <summary>📚 Courses & Learning</summary>
+
+| Course | Status |
+|:--|:--|
+| .NET Backend Course | In progress (Oct 2026) |
+| DEPI - Rowad Misr, Machine Learning Track | In progress (Nov 2026) |
+| C# | Completed June 2026 |
+| Python / Java / Database Fundamentals / Advanced Programming | Completed 2025 |
+| Object-Oriented Programming | Completed 2024 |
+
+</details>
+
+<div align="center" >
+<a href="https://github.com/fatima2301167-ui">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fatima2301167-ui&show_icons=true&theme=nord&hide_border=true" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima2301167-ui&layout=compact&theme=nord&hide_border=true" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima2301167-ui&theme=nord&hide_border=true" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fatima2301167-ui&theme=nord&hide_border=true" >
+
+</details>
+
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+</div>
