@@ -1,38 +1,102 @@
-# Hi I'm Jessica 👋
+<div align="center" width="50">
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
+
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+<div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
-## Join the Community Word Cloud :cloud: :pencil2:
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
-![](https://img.shields.io/badge/Words%20Added-462-brightgreen?labelColor=7D898B)
-![](https://img.shields.io/badge/Word%20Clouds%20Created-6-48D6FF?labelColor=7D898B)
-![](https://img.shields.io/badge/Total%20Participants-361-AC6EFF?labelColor=7D898B)
+</div>
 
-### :thought_balloon: [Add a word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
-
-A new word cloud will be automatically generated when you [add your own word](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
-
-:star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/JessicaLim8/JessicaLim8/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
-
-<div align="center">
-
-## Where are you hoping to travel next? :airplane: :earth_americas: :luggage:
-
-<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-107-informational?labelColor=7D898B)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-83-blueviolet?labelColor=7D898B)
-
-[![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/Satyajit-Chaudhuri) [![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/blessinvarkey)](https://github.com/blessinvarkey) [![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/billyeatcookies)](https://github.com/billyeatcookies) [![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/emmachalupka)](https://github.com/emmachalupka) [![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) [![Github Badge](https://img.shields.io/badge/-@umangkaswala-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/umangkaswala)](https://github.com/umangkaswala) [![Github Badge](https://img.shields.io/badge/-@HarshitKumar9030-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/HarshitKumar9030)](https://github.com/HarshitKumar9030) [![Github Badge](https://img.shields.io/badge/-@vis--hal--k-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vis-hal-k)](https://github.com/vis-hal-k) [![Github Badge](https://img.shields.io/badge/-@Wesllen--Vinicius-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Wesllen-Vinicius)](https://github.com/Wesllen-Vinicius) [![Github Badge](https://img.shields.io/badge/-@sroccoli1-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/sroccoli1)](https://github.com/sroccoli1) [![Github Badge](https://img.shields.io/badge/-@martageraldo-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/martageraldo)](https://github.com/martageraldo) [![Github Badge](https://img.shields.io/badge/-@damolew19-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/damolew19)](https://github.com/damolew19) [![Github Badge](https://img.shields.io/badge/-@adoreblvnk-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/adoreblvnk)](https://github.com/adoreblvnk) [![Github Badge](https://img.shields.io/badge/-@Ranieeery-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Ranieeery)](https://github.com/Ranieeery) [![Github Badge](https://img.shields.io/badge/-@mariavilaro-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/mariavilaro)](https://github.com/mariavilaro) [![Github Badge](https://img.shields.io/badge/-@ricardosohn-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ricardosohn)](https://github.com/ricardosohn) [![Github Badge](https://img.shields.io/badge/-@mattjoke-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/mattjoke)](https://github.com/mattjoke) [![Github Badge](https://img.shields.io/badge/-@esin87-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/esin87)](https://github.com/esin87) [![Github Badge](https://img.shields.io/badge/-@BolaGhaly-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/BolaGhaly)](https://github.com/BolaGhaly) [![Github Badge](https://img.shields.io/badge/-@vyshnovka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vyshnovka)](https://github.com/vyshnovka) [![Github Badge](https://img.shields.io/badge/-@NGUYENNHATTIEN31-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/NGUYENNHATTIEN31)](https://github.com/NGUYENNHATTIEN31) [![Github Badge](https://img.shields.io/badge/-@jonfarias-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/jonfarias)](https://github.com/jonfarias) [![Github Badge](https://img.shields.io/badge/-@pixiedust07-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/pixiedust07)](https://github.com/pixiedust07) [![Github Badge](https://img.shields.io/badge/-@devkennyy-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/devkennyy)](https://github.com/devkennyy) [![Github Badge](https://img.shields.io/badge/-@Qiamast-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Qiamast)](https://github.com/Qiamast) [![Github Badge](https://img.shields.io/badge/-@Steve--Mcl-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Steve-Mcl)](https://github.com/Steve-Mcl) [![Github Badge](https://img.shields.io/badge/-@gavinmasese-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gavinmasese)](https://github.com/gavinmasese) [![Github Badge](https://img.shields.io/badge/-@daniel--rojsanch-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/daniel-rojsanch)](https://github.com/daniel-rojsanch) [![Github Badge](https://img.shields.io/badge/-@makerio90-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/makerio90)](https://github.com/makerio90) [![Github Badge](https://img.shields.io/badge/-@crazysamurai-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/crazysamurai)](https://github.com/crazysamurai) [![Github Badge](https://img.shields.io/badge/-@latoulicious-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/latoulicious)](https://github.com/latoulicious) [![Github Badge](https://img.shields.io/badge/-@jerrayner-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/jerrayner)](https://github.com/jerrayner) [![Github Badge](https://img.shields.io/badge/-@hgf777--br-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/hgf777-br)](https://github.com/hgf777-br) [![Github Badge](https://img.shields.io/badge/-@KhalidSharafEl--Din-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/KhalidSharafEl-Din)](https://github.com/KhalidSharafEl-Din) [![Github Badge](https://img.shields.io/badge/-@Guleixibian2009-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Guleixibian2009)](https://github.com/Guleixibian2009) [![Github Badge](https://img.shields.io/badge/-@LukasxzB-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/LukasxzB)](https://github.com/LukasxzB) [![Github Badge](https://img.shields.io/badge/-@kizule-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/kizule)](https://github.com/kizule) [![Github Badge](https://img.shields.io/badge/-@nonrice-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/nonrice)](https://github.com/nonrice) [![Github Badge](https://img.shields.io/badge/-@ImRavi--321-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ImRavi-321)](https://github.com/ImRavi-321) [![Github Badge](https://img.shields.io/badge/-@OnurOenker-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/OnurOenker)](https://github.com/OnurOenker) [![Github Badge](https://img.shields.io/badge/-@BPower0036-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/BPower0036)](https://github.com/BPower0036) [![Github Badge](https://img.shields.io/badge/-@xeonray--origin-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/xeonray-origin)](https://github.com/xeonray-origin) [![Github Badge](https://img.shields.io/badge/-@TheBigEye-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/TheBigEye)](https://github.com/TheBigEye) [![Github Badge](https://img.shields.io/badge/-@AidanAnderson-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/AidanAnderson)](https://github.com/AidanAnderson) [![Github Badge](https://img.shields.io/badge/-@jothamsl-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/jothamsl)](https://github.com/jothamsl) [![Github Badge](https://img.shields.io/badge/-@fredrikishome-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/fredrikishome)](https://github.com/fredrikishome) [![Github Badge](https://img.shields.io/badge/-@rcerrejon-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/rcerrejon)](https://github.com/rcerrejon) [![Github Badge](https://img.shields.io/badge/-@ParichayGupta-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ParichayGupta)](https://github.com/ParichayGupta) [![Github Badge](https://img.shields.io/badge/-@JohnyP36-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JohnyP36)](https://github.com/JohnyP36) [![Github Badge](https://img.shields.io/badge/-@codemaker2015-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/codemaker2015)](https://github.com/codemaker2015) [![Github Badge](https://img.shields.io/badge/-@trinib-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/trinib)](https://github.com/trinib) [![Github Badge](https://img.shields.io/badge/-@Esthuy-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Esthuy)](https://github.com/Esthuy) [![Github Badge](https://img.shields.io/badge/-@phovu-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/phovu)](https://github.com/phovu) [![Github Badge](https://img.shields.io/badge/-@crimsonshade-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/crimsonshade)](https://github.com/crimsonshade) [![Github Badge](https://img.shields.io/badge/-@solomonshalom-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/solomonshalom)](https://github.com/solomonshalom) [![Github Badge](https://img.shields.io/badge/-@Chi20-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Chi20)](https://github.com/Chi20) [![Github Badge](https://img.shields.io/badge/-@DalpatRathore-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DalpatRathore)](https://github.com/DalpatRathore) [![Github Badge](https://img.shields.io/badge/-@aksalsf-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/aksalsf)](https://github.com/aksalsf) [![Github Badge](https://img.shields.io/badge/-@maissenayed-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/maissenayed)](https://github.com/maissenayed) [![Github Badge](https://img.shields.io/badge/-@Loner291999-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Loner291999)](https://github.com/Loner291999) [![Github Badge](https://img.shields.io/badge/-@GabrielaSchmitt-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/GabrielaSchmitt)](https://github.com/GabrielaSchmitt) [![Github Badge](https://img.shields.io/badge/-@Carol42-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Carol42)](https://github.com/Carol42) [![Github Badge](https://img.shields.io/badge/-@robinlin99-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/robinlin99)](https://github.com/robinlin99) [![Github Badge](https://img.shields.io/badge/-@gonzaloev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gonzaloev)](https://github.com/gonzaloev) [![Github Badge](https://img.shields.io/badge/-@charooxyz-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/charooxyz)](https://github.com/charooxyz) [![Github Badge](https://img.shields.io/badge/-@coppeneur-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/coppeneur)](https://github.com/coppeneur) [![Github Badge](https://img.shields.io/badge/-@MaanavD-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/MaanavD)](https://github.com/MaanavD) [![Github Badge](https://img.shields.io/badge/-@jrmydix-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/jrmydix)](https://github.com/jrmydix) [![Github Badge](https://img.shields.io/badge/-@williamhorning-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/williamhorning)](https://github.com/williamhorning) [![Github Badge](https://img.shields.io/badge/-@nalanios-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/nalanios)](https://github.com/nalanios) [![Github Badge](https://img.shields.io/badge/-@S4lem-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/S4lem)](https://github.com/S4lem) [![Github Badge](https://img.shields.io/badge/-@gapolli-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gapolli)](https://github.com/gapolli) [![Github Badge](https://img.shields.io/badge/-@J--Walters-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/J-Walters)](https://github.com/J-Walters) [![Github Badge](https://img.shields.io/badge/-@cosmoglint-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/cosmoglint)](https://github.com/cosmoglint) [![Github Badge](https://img.shields.io/badge/-@TheKaushikGoswami-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/TheKaushikGoswami)](https://github.com/TheKaushikGoswami) [![Github Badge](https://img.shields.io/badge/-@pitzeltoast-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/pitzeltoast)](https://github.com/pitzeltoast) [![Github Badge](https://img.shields.io/badge/-@sumeshir26-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/sumeshir26)](https://github.com/sumeshir26) [![Github Badge](https://img.shields.io/badge/-@crxssed7-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/crxssed7)](https://github.com/crxssed7) [![Github Badge](https://img.shields.io/badge/-@JohnPalmgren-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JohnPalmgren)](https://github.com/JohnPalmgren) [![Github Badge](https://img.shields.io/badge/-@kstamp232-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/kstamp232)](https://github.com/kstamp232) [![Github Badge](https://img.shields.io/badge/-@ashleighrene-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/ashleighrene)](https://github.com/ashleighrene) [![Github Badge](https://img.shields.io/badge/-@JayantGoel001-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JayantGoel001)](https://github.com/JayantGoel001) [![Github Badge](https://img.shields.io/badge/-@JessicaLim8-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JessicaLim8)](https://github.com/JessicaLim8) 
-
- Check out the [previous word cloud](https://github.com/JessicaLim8/JessicaLim8/blob/master/previous_clouds/previous_clouds.md#what-are-you-looking-forward-to-in-2021-tada-sunglasses-confetti_ball) to see our community's **What are you looking forward to in 2021? :tada: :sunglasses: :confetti_ball:**</div>
-
- ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
