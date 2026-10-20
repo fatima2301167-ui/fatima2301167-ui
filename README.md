@@ -1,180 +1,97 @@
-<div align="center">
+<div align="center" width="50">
 
-# Hi, I'm Fatma Morsi
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/fatima2301167-ui" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/fatima2301167-ui" alt="Workspace" width="40%"/><br>
 
-### .NET Backend Development | AI & Machine Learning | Cybersecurity
+<details>
+<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
 
-<p>
-  Exploring software development, artificial intelligence, and cybersecurity
-  through continuous learning and practical projects.
-</p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Building+with+.NET;Exploring+AI+%26+Machine+Learning;Learning+Cybersecurity;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+</details>
 
-<br>
-
-<a href="https://github.com/fatima2301167-ui">
-  <img src="https://komarev.com/ghpvc/?username=fatima2301167-ui&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fatma-morsi-9257a7362">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/fatima2301167-ui">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+![Totals Hits](https://komarev.com/ghpvc/?username=fatima2301167-ui&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffatima2301167-ui&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatma-morsi-9257a7362/) <br>
 </div>
 
----
+<hr></hr>
 
-## About Me
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Sql](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat&logo=hackthebox&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-8B0000?style=flat&logo=kalilinux&logoColor=white)
 
-I am passionate about software development, artificial intelligence, and cybersecurity. I enjoy learning new technologies, solving programming problems, and exploring how different areas of technology can work together to solve real-world challenges.
+    // tools_I_use organized
 
-My technical interests include building backend applications with .NET, exploring machine learning concepts, and understanding cybersecurity principles and threat analysis.
+    class About
+    {
+        public string[] ProgrammingLanguages =
+        {
+            "C#", "C++", "Java", "Python"
+        };
 
-I am continuously developing my programming skills and working toward building reliable, practical, and meaningful software solutions.
+        public string[] Backend =
+        {
+            ".NET", "OOP", "SQL", "Entity Framework"
+        };
 
----
+        public string[] Interests =
+        {
+            "Cybersecurity", "Machine Learning"
+        };
 
-## Technical Skills
+        public string[] OtherSkills =
+        {
+            "Problem Solving", "Data Structures & Algorithms",
+            "HTML", "Git", "GitHub"
+        };
+    }
 
-### Programming Languages
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **.NET Backend Development & Cybersecurity**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring **Cybersecurity & Machine Learning**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **C#, Programming Fundamentals, OOP, and Problem Solving**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[Fatma Mahmoud Ahmed](https://www.linkedin.com/in/fatma-morsi-9257a7362/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every expert was once a beginner who kept learning and building.<br>
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<div align="center" >
+<a href="https://github.com/fatima2301167-ui">
 
-### Backend Development
+<img src="https://github-readme-stats.vercel.app/api?username=fatima2301167-ui&show_icons=true&theme=nord" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima2301167-ui&layout=compact&theme=nord" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima2301167-ui&theme=nord" width="32.5%">
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-</p>
-
-### Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge" alt="Artificial Intelligence"/>
-</p>
-
-### Cybersecurity
-
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-1F6FEB?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Penetration_Testing-333333?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Penetration Testing"/>
-  <img src="https://img.shields.io/badge/Threat_Analysis-8B5CF6?style=for-the-badge" alt="Threat Analysis"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
-
----
-
-## Featured Projects
-
-### Raknology
-A smart parking application prototype developed using Flutter and Firebase, exploring user authentication, database integration, and parking-related functionality.
-
-### SentinelAI
-A cybersecurity project prototype exploring AI-assisted threat detection and attack timeline visualization.
-
-### Student Management System
-A software project focused on organizing and managing student information.
-
-### Compiler & Lexical Analyzer
-A web-based project exploring lexical analysis and fundamental compiler concepts.
-
----
-
-## Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Era_Soft-Backend_.NET-512BD4?style=for-the-badge" alt="Backend .NET Certificate"/>
-  <img src="https://img.shields.io/badge/Udemy-Penetration_Testing-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Penetration Testing Certificate"/>
-</p>
-
----
-
-## Areas of Interest
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### Backend Development
-
-Building backend applications and exploring .NET technologies, application architecture, and databases.
-
-</td>
-<td width="33%" align="center">
-
-### AI & Machine Learning
-
-Exploring machine learning concepts and AI-based approaches to solving practical problems.
-
-</td>
-<td width="33%" align="center">
-
-### Cybersecurity
-
-Learning about security principles, threat analysis, and protecting software systems.
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatima2301167-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima2301167-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=fatima2301167-ui&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## Currently Learning
-
-- Strengthening my .NET backend development skills.
-- Exploring artificial intelligence and machine learning.
-- Expanding my knowledge of cybersecurity.
-- Improving problem-solving and software development skills.
-
----
-
-<div align="center">
-
-### Learn. Build. Improve.
-
-*Exploring technology, one project at a time.*
-
-<br>
-
-<a href="https://www.linkedin.com/in/fatma-morsi-9257a7362">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatima2301167-ui&theme=nord_dark">
+
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/-->
 
 </div>
