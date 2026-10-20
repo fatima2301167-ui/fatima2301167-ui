@@ -34,30 +34,56 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat&logo=hackthebox&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-8B0000?style=flat&logo=kalilinux&logoColor=white)
 
-    // tools_I_use organized
+   // tools_I_use organized
 
-    class About
+class About
+{
+    public string[] ProgrammingLanguages =
     {
-        public string[] ProgrammingLanguages =
-        {
-            "C#", "C++", "Java", "Python"
-        };
+        "C#", "Python", "Java", "C++"
+    };
 
-        public string[] Backend =
-        {
-            ".NET", "OOP", "SQL", "Entity Framework"
-        };
+    public string[] WebTechnologies =
+    {
+        "HTML", "CSS", "JavaScript"
+    };
 
-        public string[] Interests =
-        {
-            "Cybersecurity", "Machine Learning"
-        };
+    public string[] Backend =
+    {
+        ".NET", "OOP", "SQL", "Entity Framework"
+    };
 
-        public string[] OtherSkills =
-        {
-            "Problem Solving", "Data Structures & Algorithms",
-            "HTML", "Git", "GitHub"
-        };
+    public string[] Database =
+    {
+        "SQL"
+    };
+
+    public string[] Editors =
+    {
+        "Visual Studio Code", "Google Colab"
+    };
+
+    public string[] Platforms =
+    {
+        "Linux", "Windows"
+    };
+
+    public string[] Interests =
+    {
+        "Cybersecurity", "Machine Learning"
+    };
+
+    public string[] OtherTools =
+    {
+        "Git", "GitHub", "Adobe Lightroom", "Canva"
+    };
+
+    public string[] OtherSkills =
+    {
+        "Problem Solving",
+        "Data Structures & Algorithms"
+    };
+
     }
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **.NET Backend Development & Cybersecurity**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
